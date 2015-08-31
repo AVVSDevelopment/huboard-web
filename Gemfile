@@ -45,6 +45,7 @@ gem 'redcarpet'
 
 gem 'pdfkit'
 gem 'wkhtmltopdf-heroku'
+gem 'unicorn'
 
 # BUNDLE_WITHOUT="development:test:saas"
 gem 'saas', require: nil, path: "vendor/engines/saas"
